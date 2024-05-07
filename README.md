@@ -6,8 +6,10 @@ Implementação Continuous Delivery para uma aplicação de monitorização usan
 Ferramentas: Terraform, GitHub Actions, Jenkins
 Outros: AWS (para a infraestrutura), Nginx (para o servidor web)
 
-***Instalação e Uso Clone o repositório***
+***Instalação de Uso Clone o repositório***
 https://github.com/sousa-vinicios/terraform.git
 
 ***Acesse o diretório do projeto***
 ex: cd /home/vinicios/terraform
+
+Baixe o arquivo .zip do repositorio ***(Pdf_Projeto_Clique_aqui.zip)*** que contém todas as instruções, que foram realizadas para realizar o projeto.
